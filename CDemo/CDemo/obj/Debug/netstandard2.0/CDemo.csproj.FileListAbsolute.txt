@@ -1,0 +1,14 @@
+/Users/wangchuang/Desktop/CDemo/CDemo/bin/Debug/netstandard2.0/CDemo.deps.json
+/Users/wangchuang/Desktop/CDemo/CDemo/bin/Debug/netstandard2.0/CDemo.dll
+/Users/wangchuang/Desktop/CDemo/CDemo/bin/Debug/netstandard2.0/ref/CDemo.dll
+/Users/wangchuang/Desktop/CDemo/CDemo/bin/Debug/netstandard2.0/CDemo.pdb
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.csprojAssemblyReference.cache
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.csproj.CoreCompileInputs.cache
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.AssemblyInfoInputs.cache
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.AssemblyInfo.cs
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.dll
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/ref/CDemo.dll
+/Users/wangchuang/Desktop/CDemo/CDemo/obj/Debug/netstandard2.0/CDemo.pdb
