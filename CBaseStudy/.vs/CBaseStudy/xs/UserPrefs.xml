@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4EF84A97-0346-4870-B7CD-5806556D6CA0}|Default">
+  <MonoDevelop.Ide.ItemProperties.CBaseStudy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CBaseStudy/Study1.cs">
+    <Files>
+      <File FileName="CBaseStudy/Study1.cs" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CBaseStudy" expanded="True">
+            <Node name="CBaseStudy" expanded="True">
+              <Node name="Study1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
