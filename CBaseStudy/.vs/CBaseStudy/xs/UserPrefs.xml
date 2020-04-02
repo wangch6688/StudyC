@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{4EF84A97-0346-4870-B7CD-5806556D6CA0}|Default">
   <MonoDevelop.Ide.ItemProperties.CBaseStudy FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CBaseStudy/ArrayStudy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CBaseStudy/StringStudy.cs">
     <Files>
-      <File FileName="CBaseStudy/Study1.cs" Line="110" Column="9" />
-      <File FileName="CBaseStudy/ArrayStudy.cs" Line="7" Column="1" />
+      <File FileName="CBaseStudy/Study1.cs" Line="121" Column="10" />
+      <File FileName="CBaseStudy/ArrayStudy.cs" Line="6" Column="6" />
+      <File FileName="CBaseStudy/StringStudy.cs" Line="77" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CBaseStudy" expanded="True">
             <Node name="CBaseStudy" expanded="True">
-              <Node name="ArrayStudy.cs" selected="True" />
+              <Node name="StringStudy.cs" selected="True" />
             </Node>
           </Node>
         </State>

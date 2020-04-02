@@ -27,6 +27,7 @@
   <ItemGroup>
     <Compile Include="Study1.cs" />
     <Compile Include="ArrayStudy.cs" />
+    <Compile Include="StringStudy.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
