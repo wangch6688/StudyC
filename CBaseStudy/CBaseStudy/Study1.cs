@@ -116,7 +116,26 @@ namespace HelloWorldApplocation
         //方法的创建
         //<Access Specifier> <return type> <Method Name>(Parameter List) { }
         //Access Specifier:访问修饰符，public、private、internal、protected
+
+        public void FunctionA(int[] args)
+        {
+            num3 = num2 ?? 5.444;
+
+        }
+
+        int? i = 3;
+        double ? num1 = 3.75;
+        double ? num2 = null;
+        double num3;
+
+       
+
+
+
     }
+
+
+    
 
 }
 
